@@ -94,3 +94,8 @@ div.o_component_with_search_panel {
         max-width: 30%;
     }
 }
+div.o_kanban_record_bottom {
+    div.badge {
+        min-width: max-content !important;
+    }
+}
